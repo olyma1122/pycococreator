@@ -1,3 +1,9 @@
+## _Update: 2021.12.18_
+
+This is an expansion of [pycococreator](https://github.com/waspinator/pycococreator).
+For more convenient use, the repository combines [pycococreator](https://github.com/waspinator/pycococreator) with [Open Images Dataset](https://opensource.google/projects/open-images-dataset).
+
+
 # pycococreator
 
 
